@@ -6,4 +6,4 @@
 * Github Actions
 * Jenkins
 * Bitbucket Pipelines
-* Gitlab
+* Gitlab 
